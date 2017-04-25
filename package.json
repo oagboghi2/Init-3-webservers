@@ -1,0 +1,22 @@
+{
+  "name": "web-server-253",
+  "version": "1.0.0",
+  "description": "Build a markdown editor app using Node.js and the popular Express.js framework. The final product will be similar to (but a lot simpler than) this app: http://dillinger.io/.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oagboghi2/Init-3-Web-Servers.git"
+  },
+  "author": "Obo A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oagboghi2/Init-3-Web-Servers/issues"
+  },
+  "homepage": "https://github.com/oagboghi2/Init-3-Web-Servers#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
